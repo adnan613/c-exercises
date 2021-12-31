@@ -1,6 +1,6 @@
 #include <stdio.h>
 
- main()
+ int main()
 {
     float radius = 0.0;
     float diameter = 0.;
